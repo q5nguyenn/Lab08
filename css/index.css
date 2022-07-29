@@ -1,0 +1,23 @@
+body {
+    background: #F6F7F7;
+}
+h1 a {
+    color: #3AAA95;
+    text-decoration: none;
+}
+h1, h2 {
+    text-align: center;
+    /* margin: 0 auto; */
+}
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+table a {
+    color: #3AAA95;
+    text-decoration: none;
+}
+table td {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
